@@ -67,10 +67,14 @@
 </p>
 
 ---
-
+ id="g2n6v5"
 <h2>🚀 Featured Projects</h2>
 
-<h3>GenNews</h3>
+<h3>
+  <a href="https://github.com/ThePresence060/GenNews">
+    GenNews
+  </a>
+</h3>
 
 <p>
   Machine learning powered system that evaluates the credibility of online news articles using NLP and classification techniques.
@@ -85,14 +89,18 @@
 
 <br>
 
-<h3>CollabOS</h3>
+<h3>
+  <a href="https://github.com/ThePresence060/upgraded-barnacle">
+    CollabOS
+  </a>
+</h3>
 
 <p>
-  Team collaboration platform designed to simplify project management, task distribution, and real-time progress tracking for student teams and collaborative projects.
+  Team collaboration platform designed to simplify project management, task distribution, and real-time progress tracking for collaborative teams.
 </p>
 
 <p>
-  Features include AI-powered task generation, weighted task allocation based on complexity, and real-time tracking of team contributions and workflow status.
+  Features include AI-powered task generation, weighted task allocation based on complexity, and real-time tracking of workflow progress and contributions.
 </p>
 
 <p>
@@ -107,7 +115,6 @@
   <img src="https://img.shields.io/badge/Responsive%20UI-111111?style=flat-square" />
 </p>
 
----
 
 <h2>🎯 Current Focus</h2>
 
