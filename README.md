@@ -67,7 +67,6 @@
 </p>
 
 ---
- id="g2n6v5"
 <h2>🚀 Featured Projects</h2>
 
 <h3>
