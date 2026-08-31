@@ -1,0 +1,48 @@
+<svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b2e"/>
+      <stop offset="100%" stop-color="#12101c"/>
+    </linearGradient>
+    <linearGradient id="titlebar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a2640"/>
+      <stop offset="100%" stop-color="#211e33"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- window -->
+  <rect x="20" y="20" width="600" height="360" rx="14" fill="url(#bg)" stroke="#3a3552" stroke-width="1" filter="url(#shadow)"/>
+
+  <!-- title bar -->
+  <path d="M20 34 a14 14 0 0 1 14 -14 h572 a14 14 0 0 1 14 14 v30 h-600 z" fill="url(#titlebar)"/>
+  <circle cx="44" cy="49" r="6" fill="#ff5f57"/>
+  <circle cx="64" cy="49" r="6" fill="#febc2e"/>
+  <circle cx="84" cy="49" r="6" fill="#28c840"/>
+  <text x="320" y="54" text-anchor="middle" fill="#9089b3" font-size="13">krish@dev-machine: ~</text>
+  <line x1="20" y1="64" x2="620" y2="64" stroke="#3a3552" stroke-width="1"/>
+
+  <!-- body -->
+  <g font-size="14.5">
+    <text x="44" y="96"><tspan fill="#7ee787">➜</tspan><tspan fill="#82aaff" dx="8">~</tspan><tspan fill="#e6e1f9" dx="8">whoami --verbose</tspan></text>
+
+    <text x="44" y="132"><tspan fill="#c8a2ff">user</tspan><tspan fill="#5f5a7a" dx="8">:</tspan><tspan fill="#ffd479" dx="14">krish_gupta</tspan></text>
+    <text x="44" y="158"><tspan fill="#c8a2ff">role</tspan><tspan fill="#5f5a7a" dx="8">:</tspan><tspan fill="#ffd479" dx="14">backend_dev</tspan><tspan fill="#7ee787">(in_progress)</tspan><tspan fill="#e6e1f9"> + ml_tinkerer</tspan></text>
+    <text x="44" y="184"><tspan fill="#c8a2ff">os</tspan><tspan fill="#5f5a7a" dx="8">:</tspan><tspan fill="#ffd479" dx="14">linux</tspan><tspan fill="#6f6a90"> (custom conky rig, obviously)</tspan></text>
+    <text x="44" y="210"><tspan fill="#c8a2ff">current_pid</tspan><tspan fill="#5f5a7a" dx="8">:</tspan><tspan fill="#7dd3fc" dx="14">SIH_2026</tspan><tspan fill="#5f5a7a"> :: </tspan><tspan fill="#7dd3fc">cipher_core</tspan></text>
+
+    <text x="44" y="236"><tspan fill="#c8a2ff">stack</tspan><tspan fill="#5f5a7a" dx="8">:</tspan><tspan fill="#e6e1f9" dx="14">[</tspan><tspan fill="#ffb454">go</tspan><tspan fill="#e6e1f9">, </tspan><tspan fill="#ffb454">python</tspan><tspan fill="#e6e1f9">, </tspan><tspan fill="#ffb454">fastapi</tspan><tspan fill="#e6e1f9">, </tspan><tspan fill="#ffb454">postgresql</tspan><tspan fill="#e6e1f9">, </tspan><tspan fill="#ffb454">redis</tspan><tspan fill="#e6e1f9">]</tspan></text>
+
+    <text x="44" y="262"><tspan fill="#c8a2ff">status</tspan><tspan fill="#5f5a7a" dx="8">:</tspan><tspan fill="#f78166" dx="14">compiling... please wait</tspan></text>
+    <text x="44" y="288"><tspan fill="#c8a2ff">uptime</tspan><tspan fill="#5f5a7a" dx="8">:</tspan><tspan fill="#7ee787" dx="14">4+ years of "just one more bug fix"</tspan></text>
+
+    <text x="44" y="324"><tspan fill="#7ee787">➜</tspan><tspan fill="#82aaff" dx="8">~</tspan>
+      <tspan dx="8" fill="#e6e1f9">_</tspan>
+    </text>
+    <rect x="76" y="313" width="9" height="15" fill="#e6e1f9">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
