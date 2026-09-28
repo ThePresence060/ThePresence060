@@ -12,6 +12,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="./assets/coding-cat.gif" width="260" alt="Animated cat coding on a laptop" />
+</p>
+
 ---
 
 <h2>💫 About Me</h2>
@@ -103,11 +107,12 @@
 <pre>
 <code>
 Learning = [
-    "Backend Development",
+    "Backend Development (Go & FastAPI)",
+    "Concurrency & REST APIs",
     "Machine Learning",
-    "REST APIs",
     "Data Analysis",
-    "System Design"
+    "System Design",
+    "Open Source Contributions"
 ]
 </code>
 </pre>
