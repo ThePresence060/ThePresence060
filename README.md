@@ -47,13 +47,25 @@
 
 <h2>💻 Tech Stack</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,fastapi,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,fastapi,git,github,vscode,postgres,redis,docker,linux,postman" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Algorithms-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Design-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrum-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Technical%20Writing-111111?style=flat-square" />
 </p>
 
 ---
